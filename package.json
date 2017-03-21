@@ -4,16 +4,16 @@
   "description": "",
   "main": "Gruntfile.js",
   "dependencies": {
-    "es6ify": "~0.2.0",
-    "grunt": "~0.4.1",
-    "grunt-browserify": "~1.2.0",
-    "grunt-contrib-concat": "~0.3.0"
+    "es6ify": "~1.6.0",
+    "grunt": "~1.0.1",
+    "grunt-browserify": "~5.0.0",
+    "grunt-contrib-concat": "~1.0.1"
   },
   "devDependencies": {
-    "grunt-contrib-concat": "~0.3.0",
-    "grunt": "~0.4.1",
-    "es6ify": "~0.2.0",
-    "grunt-browserify": "~1.2.0"
+    "grunt-contrib-concat": "~1.0.1",
+    "grunt": "~1.0.1",
+    "es6ify": "~1.6.0",
+    "grunt-browserify": "~5.0.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
